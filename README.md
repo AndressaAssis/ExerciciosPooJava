@@ -74,5 +74,4 @@ Recebe três números e realiza várias operações aritméticas (soma, subtraç
 
 ## Licença ![image](https://github.com/user-attachments/assets/1033092f-0000-4475-b3b1-633f5dce5e1d)
 
-
-Este projeto é de uso livre para fins acadêmicos e pessoais. 
+- Este projeto é de uso livre para fins acadêmicos e pessoais. 
