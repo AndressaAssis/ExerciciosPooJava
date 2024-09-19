@@ -1,4 +1,4 @@
-# Projeto de Exercícios em Java
+# ✨ Projeto de Exercícios em Java ✨
 
 Este projeto foi desenvolvido como parte da disciplina de Programação Orientada a Objetos (POO). Ele contém um conjunto de exercícios básicos em Java, implementados em um menu interativo. Cada exercício aborda conceitos fundamentais de programação, como manipulação de variáveis, controle de fluxo e operações aritméticas.
 
@@ -12,7 +12,7 @@ Este projeto foi desenvolvido como parte da disciplina de Programação Orientad
 - [Exercícios](#exercícios)
 - [Licença](#licença)
 
-## Introdução
+## Introdução 📄
 
 Este projeto oferece um menu com quatro exercícios distintos:
 
@@ -23,12 +23,12 @@ Este projeto oferece um menu com quatro exercícios distintos:
 
 O usuário pode interagir com o programa por meio de um menu de seleção.
 
-## Pré-requisitos
+## Pré-requisitos 🔧 
 
 - Java Development Kit (JDK) instalado (versão 8 ou superior).
 - Eclipse IDE ou qualquer outro ambiente de desenvolvimento Java.
 
-## Instalação
+## Instalação 💻
 
 1. Clone o repositório ou baixe os arquivos.
     ```bash
@@ -41,14 +41,14 @@ O usuário pode interagir com o programa por meio de um menu de seleção.
     - Navegue até a pasta onde o projeto foi baixado/clonado.
     - Selecione a pasta do projeto e clique em `Finish`.
 
-## Uso
+## Uso 💥
 
 1. Execute a classe `exercicios` no Eclipse.
 2. O programa exibirá um menu com as opções de exercícios disponíveis.
 3. Selecione um número de 1 a 4 para escolher um exercício, ou 5 para sair.
 4. Siga as instruções exibidas no console para cada exercício.
 
-## Funcionalidades
+## Funcionalidades ✅
 
 - **Menu Interativo:** O programa apresenta um menu interativo para que o usuário selecione qual exercício deseja executar.
 - **Exercícios Diversos:** Cada exercício aborda um conceito diferente, como operações aritméticas, controle de fluxo e manipulação de variáveis.
@@ -72,6 +72,7 @@ Gera e exibe a tabuada de um número informado pelo usuário.
 
 Recebe três números e realiza várias operações aritméticas (soma, subtração, multiplicação e divisão) entre eles.
 
-## Licença
+## Licença ![image](https://github.com/user-attachments/assets/1033092f-0000-4475-b3b1-633f5dce5e1d)
 
-Este projeto é de uso livre para fins acadêmicos e pessoais.
+
+Este projeto é de uso livre para fins acadêmicos e pessoais. 
